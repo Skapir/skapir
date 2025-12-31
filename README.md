@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Sergio Pérez (Skapir)</h1>
+<h1 align="center">👋 Hola, soy Sergio Perez (Skapir)</h1>
 
 <p align="center">
   Desarrollador Backend especializado en <b>Python</b> y <b>Django</b>, con experiencia en automatización de procesos y desarrollo de sistemas de información, principalmente en el sector salud.
