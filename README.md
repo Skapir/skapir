@@ -56,12 +56,5 @@
 ---
 
 ## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:sperez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sperez.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/Skapir">
-    <img src="https://img.shields.io/badge/GitHub-Skapir-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+- 📧 sperezn.dev@gmail.com
+- 💻 GitHub: https://github.com/Skapir
