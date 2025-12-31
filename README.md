@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Sergio Pérez (Skapir)
 
-<!--
-**Skapir/skapir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Backend especializado en Python y Django, con experiencia en automatización de procesos y desarrollo de sistemas de información, principalmente en el sector salud.
 
-Here are some ideas to get you started:
+## 🧠 Áreas de especialización
+- Desarrollo backend con Python & Django
+- Automatización de procesos administrativos
+- APIs REST
+- Procesamiento de datos con Python
+- Sistemas de información hospitalaria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- Python | Django | Django REST Framework
+- PostgreSQL | MySQL
+- Pandas | OpenPyXL | Playwright
+- Git | GitHub | Linux
+
+## 📂 Proyectos destacados
+- 🔹 Sistema Tópico Hospitalario
+- 🔹 API REST en Django
+- 🔹 Sistema de Citas de Mamografías
+
+## 📫 Contacto
+- 📧 sperez.dev@gmail.com
+- 💻 GitHub: https://github.com/Skapir
