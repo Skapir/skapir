@@ -12,6 +12,7 @@
   <a href="https://skapir.github.io"><img src="https://img.shields.io/badge/🌐_Portafolio-skapir.github.io-604a84?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/sergio-perez-nateros"><img src="https://img.shields.io/badge/LinkedIn-sergio--perez--nateros-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:sperezn.dev@gmail.com"><img src="https://img.shields.io/badge/Email-sperezn.dev@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://wa.me/51994400662?text=Hola%20Sergio,%20vi%20tu%20perfil%20de%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-+51_994_400_662-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +35,7 @@
 | 🗣️ **Idiomas** | Español nativo · Inglés B1, cómodo con trabajo asíncrono |
 | 🎓 **Formación** | Ingeniero de Sistemas e Informática (UTP) · 12 certificaciones, +1,000 h |
 | 📄 **CV** | [Descargar en Español](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_ES.pdf) · [Download in English](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_EN.pdf) |
-| ⚡ **Contacto** | [sperezn.dev@gmail.com](mailto:sperezn.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergio-perez-nateros) · Respondo en el día |
+| ⚡ **Contacto** | [sperezn.dev@gmail.com](mailto:sperezn.dev@gmail.com) · [WhatsApp](https://wa.me/51994400662) · [LinkedIn](https://www.linkedin.com/in/sergio-perez-nateros) · Respondo en el día |
 
 ## 🚀 Lo que hago
 
@@ -117,6 +118,7 @@
 
 - 🌐 Portafolio: **[skapir.github.io](https://skapir.github.io)**
 - 💼 LinkedIn: [linkedin.com/in/sergio-perez-nateros](https://www.linkedin.com/in/sergio-perez-nateros)
+- 📱 WhatsApp: [+51 994 400 662](https://wa.me/51994400662)
 - 📧 sperezn.dev@gmail.com
 - 📄 CV: [Español](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_ES.pdf) · [English](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_EN.pdf)
 
