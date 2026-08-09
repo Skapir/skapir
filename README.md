@@ -23,6 +23,19 @@
 
 ---
 
+## 📌 Para reclutadores — lo esencial en 20 segundos
+
+| | |
+|---|---|
+| 💼 **Rol** | Backend Developer (Python) · Automatización de procesos · Integraciones de sistemas |
+| 📈 **Experiencia** | 4+ años desarrollando sistemas en producción · 13+ años en el sector salud |
+| 🏭 **Dominio** | Salud (hospitales, referencias médicas, HL7, normativa MINSA/SUSALUD) y retail |
+| 🌍 **Modalidad** | Remoto · GMT-5 (overlap completo con horario de EE.UU.) · Abierto a freelance y contratación |
+| 🗣️ **Idiomas** | Español nativo · Inglés B1 (lectura técnica y comunicación escrita, cómodo con trabajo asíncrono) |
+| 🎓 **Formación** | Ingeniero de Sistemas e Informática (UTP) · 12 certificaciones, +1,000 h |
+| 📄 **CV** | [Descargar en Español](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_ES.pdf) · [Download in English](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_EN.pdf) |
+| ⚡ **Respuesta** | Escríbeme a [sperezn.dev@gmail.com](mailto:sperezn.dev@gmail.com) o [LinkedIn](https://www.linkedin.com/in/sergio-perez-nateros) — respondo en el día |
+
 ## 🚀 Lo que hago
 
 - 🏥 **Sistemas de salud en producción**: referencias médicas, citas, reportes normativos (EsSalud · MINSA · SUSALUD)
