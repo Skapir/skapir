@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 Para reclutadores — lo esencial en 20 segundos
+## 📌 Resumen profesional
 
 | | |
 |---|---|
@@ -31,10 +31,10 @@
 | 📈 **Experiencia** | 4+ años desarrollando sistemas en producción · 13+ años en el sector salud |
 | 🏭 **Dominio** | Salud (hospitales, referencias médicas, HL7, normativa MINSA/SUSALUD) y retail |
 | 🌍 **Modalidad** | Remoto · GMT-5 (overlap completo con horario de EE.UU.) · Abierto a freelance y contratación |
-| 🗣️ **Idiomas** | Español nativo · Inglés B1 (lectura técnica y comunicación escrita, cómodo con trabajo asíncrono) |
+| 🗣️ **Idiomas** | Español nativo · Inglés B1, cómodo con trabajo asíncrono |
 | 🎓 **Formación** | Ingeniero de Sistemas e Informática (UTP) · 12 certificaciones, +1,000 h |
 | 📄 **CV** | [Descargar en Español](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_ES.pdf) · [Download in English](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_EN.pdf) |
-| ⚡ **Respuesta** | Escríbeme a [sperezn.dev@gmail.com](mailto:sperezn.dev@gmail.com) o [LinkedIn](https://www.linkedin.com/in/sergio-perez-nateros) — respondo en el día |
+| ⚡ **Contacto** | [sperezn.dev@gmail.com](mailto:sperezn.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergio-perez-nateros) · Respondo en el día |
 
 ## 🚀 Lo que hago
 
@@ -49,12 +49,12 @@
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
 | **CitaExpress** | Middleware que extrae referencias desde REFCON, genera PDFs sellados y los entrega a pacientes por WhatsApp con enlaces tokenizados | FastAPI · HTMX · ReportLab · httpx | 🟢 En producción |
-| **Referencias EsSalud → MINSA** | Permite a médicos generar referencias institucionales hacia un centro externo de tomografía y mamografía — flujo que el sistema oficial no soporta | FastAPI · SQLAlchemy · HTMX | 🟢 En producción |
+| **Referencias EsSalud → MINSA** | Permite a médicos generar referencias institucionales hacia un centro externo de tomografía y mamografía: flujo que el sistema oficial no soporta | FastAPI · SQLAlchemy · HTMX | 🟢 En producción |
 | **Robot de Programación SGSS** | Carga automática del rol mensual de horarios del personal hospitalario desde Excel, validando la meta de 150 h/trabajador | Python · Playwright · openpyxl | 🟢 En producción |
 | **PediaClinic** | Gestión de clínica pediátrica: dashboards por rol, OAuth2, pago Yape con conciliación automática por IMAP, Celery Beat, bot de Telegram | Django · PostgreSQL · Celery | ✅ Completo |
-| **FotoStudio Pro** | E-commerce fotográfico: catálogo con marca de agua, carrito, pago Yape y entrega digital en alta resolución | FastAPI · Tailwind | ✅ Completo |
-| **Middleware HL7 — AMIS-850** | Capa que permite a una clínica HL7 operar un dispensador de medicamentos que solo expone SDK propietario | Python · HL7 | 💼 Consultoría |
-| **Mi portafolio** ([repo](https://github.com/Skapir/Skapir.github.io)) | Este sitio: [skapir.github.io](https://skapir.github.io) — Django exportado a estático en GitHub Pages | Django · Tailwind | 🌐 En línea |
+| **FotoStudio Pro** | E-commerce fotográfico: catálogo con marca de agua, carrito, pago Yape y entrega digital en alta resolución | FastAPI · Tailwind | 🟢 En producción |
+| **Middleware HL7: AMIS-850** | Capa que permite a una clínica HL7 operar un dispensador de medicamentos que solo expone SDK propietario | Python · HL7 | 💼 Consultoría |
+| **Mi portafolio** ([repo](https://github.com/Skapir/Skapir.github.io)) | Este sitio: [skapir.github.io](https://skapir.github.io): Django exportado a estático en GitHub Pages | Django · Tailwind | 🌐 En línea |
 
 > 🔒 La mayoría de mis sistemas corren en infraestructura hospitalaria interna, por eso no todos tienen repo público. En mi [portafolio](https://skapir.github.io) está el detalle de cada uno.
 
@@ -102,16 +102,15 @@
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
 </p>
 
-## 📊 Mis estadísticas
+## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Skapir&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapir&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <a href="https://github.com/Skapir"><img src="https://ghchart.rshah.org/604a84/Skapir" alt="Contribuciones de Skapir" width="90%" /></a>
 </p>
 
 ## 🎓 Formación
 
-- **Ingeniero de Sistemas e Informática** — Universidad Tecnológica del Perú (título 2026, bachiller 2021)
+- **Ingeniero de Sistemas e Informática** · Universidad Tecnológica del Perú (título 2026, bachiller 2021)
 - **12 certificaciones** · +1,000 horas de formación técnica (Platzi, Edutin Academy, Data Science Analysis): Backend con Python, Django REST Framework, Scrum, Bases de Datos, Ciberseguridad, GNU/Linux, IA y Machine Learning
 
 ## 📫 Contacto
@@ -121,4 +120,4 @@
 - 📧 sperezn.dev@gmail.com
 - 📄 CV: [Español](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_ES.pdf) · [English](https://skapir.github.io/static/web/cv/CV_Sergio_Perez_EN.pdf)
 
-<p align="center"><i>💡 Disponible para trabajo remoto (GMT-5) — proyectos de backend, automatización e integración de sistemas.</i></p>
+<p align="center"><i>💡 Disponible para trabajo remoto (GMT-5): proyectos de backend, automatización e integración de sistemas.</i></p>
